@@ -1,16 +1,18 @@
-## Hi there 👋
+# artur piterov
 
-<!--
-**piterovxyz/piterovxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+developing microservices, squeezing the maximum out of resources, making complex things simple
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### tech stack
+
+*   **languages:** go, php
+*   **networking & arch:** tcp, udp, ipc, uds, custom bin protocols, high-load architecture
+*   **storage:** mysql, redis, rabbitmq, kafka
+*   **environment:** linux, macos, caddy, docker, nginx
+
+---
+
+### links
+
+*   **web:** [piterov.xyz](https://piterov.xyz) | [qrrot.xyz](https://qrrot.xyz)

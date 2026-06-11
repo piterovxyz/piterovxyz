@@ -1,1 +1,1 @@
-developing microservices, squeezing the maximum out of resources, making complex things simple
+developing backend, refactoring complex monoliths in php, and squeezing the maximum performance out of go applications

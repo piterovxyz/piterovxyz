@@ -1,35 +1,41 @@
 # artur piterov
 
-go backend developer with 4+ years of commercial experience building web services, integrations, background workers, and internal backend systems.
+backend developer with 4+ years of commercial experience, currently focused on go.
 
-my main focus is **go, microservices, distributed systems, and performance-oriented backend development**.
+i build backend services, integrations, background workers, and data-processing flows. most of my earlier production experience is with php, laravel, and yii2, while my current work and personal projects are increasingly centred around go.
 
 [website](https://piterov.xyz) · [telegram](https://t.me/piterovxyz) · [email](mailto:me@piterov.xyz)
 
-## what i work with
+## experience
 
-* backend services and microservices written in go
-* rest and grpc api development
-* concurrent and asynchronous processing
-* external api and banking integrations
-* event-driven systems using kafka and rabbitmq
-* postgresql, mysql, clickhouse, and redis
-* docker and linux-based environments
+* develop go services for banking and external integrations
+* work with asynchronous flows using kafka and rabbitmq
+* build rest and grpc apis
+* work with postgresql, mysql, clickhouse, and redis
+* maintain production php services built with yii2 and laravel
+* investigate performance issues and memory leaks in long-running workers
+* work with integration traffic peaks of up to 2,000 requests per second
+* reduced memory usage in a background service from 2 gb to 10 mb
 
-## experience highlights
+## projects
 
-* design and develop backend services for production systems
-* build integrations with external services and financial platforms
-* work on systems handling peaks of up to 2,000 requests per second
-* investigate memory leaks and optimise long-running background services
-* separate complex business processes into smaller and more maintainable services
-* improve reliability, observability, and performance of backend applications
+### [qrrot](https://github.com/piterovxyz/qrrot)
+
+local-first encrypted key-value database written in go.
+
+uses a binary file format, aes-256 encryption, grpc streaming, and an in-memory metadata index rebuilt from snapshots after restart.
+
+### [jumie](https://github.com/piterovxyz/jumie)
+
+local terminal assistant written in go.
+
+the cli communicates with a background daemon over a unix domain socket and uses a local ollama model to generate shell commands from natural-language requests.
 
 ## stack
 
-**primary:** go
-**backend:** rest, grpc, microservices, concurrency
-**messaging:** kafka, rabbitmq
-**data:** postgresql, mysql, clickhouse, redis
-**infrastructure:** docker, linux
-**architecture:** event-driven systems, distributed services, workers
+* **languages:** go, php
+* **backend:** rest, grpc, microservices
+* **messaging:** kafka, rabbitmq
+* **data:** postgresql, mysql, clickhouse, redis
+* **php:** laravel, yii2
+* **tools:** docker, linux, git

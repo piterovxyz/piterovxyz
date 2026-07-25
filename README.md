@@ -32,8 +32,4 @@ my main focus is **go, microservices, distributed systems, and performance-orien
 **messaging:** kafka, rabbitmq
 **data:** postgresql, mysql, clickhouse, redis
 **infrastructure:** docker, linux
-**architecture:** event-driven systems, distributed services, background workers
-
-## current focus
-
-building reliable backend systems in go, improving performance, and developing a deeper understanding of concurrency, distributed systems, and system design.
+**architecture:** event-driven systems, distributed services, workers

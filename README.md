@@ -4,7 +4,7 @@ backend developer with 4+ years of commercial experience, currently focused on g
 
 i build backend services, integrations, background workers, and data-processing flows. most of my earlier production experience is with php, laravel, and yii2, while my current work and personal projects are increasingly centred around go.
 
-[website](https://piterov.xyz) · [telegram](https://t.me/piterovxyz) · [email](mailto:me@piterov.xyz)
+[telegram](https://t.me/piterovxyz) · [email](mailto:me@piterov.xyz)
 
 ## experience
 

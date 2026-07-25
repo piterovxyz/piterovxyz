@@ -1,37 +1,39 @@
 # artur piterov
 
-php backend developer with 4+ years of commercial experience building web applications, integrations, background services, and internal backend systems.
+go backend developer with 4+ years of commercial experience building web services, integrations, background workers, and internal backend systems.
 
-my main stack is **php, yii2, and laravel**. i also use **go** for microservices and performance-sensitive services.
+my main focus is **go, microservices, distributed systems, and performance-oriented backend development**.
 
 [website](https://piterov.xyz) · [telegram](https://t.me/piterovxyz) · [email](mailto:me@piterov.xyz)
 
 ## what i work with
 
-- production php applications built with yii2 and laravel
-- backend architecture, business logic, and sql-heavy features
-- external api and banking integrations
-- asynchronous processing with kafka and rabbitmq
-- mysql, postgresql, clickhouse, and redis
-- docker and linux-based environments
+* backend services and microservices written in go
+* rest and grpc api development
+* concurrent and asynchronous processing
+* external api and banking integrations
+* event-driven systems using kafka and rabbitmq
+* postgresql, mysql, clickhouse, and redis
+* docker and linux-based environments
 
 ## experience highlights
 
-- maintain and develop a large yii2 monolith and laravel services
-- built more than 50 php integrations for analytics and data collection
-- launched more than 10 php/laravel applications from design to production
-- worked on integrations handling peaks of up to 2,000 requests per second
-- fixed memory leaks in background services, reducing ram usage from 2 gb to 10 mb
+* design and develop backend services for production systems
+* build integrations with external services and financial platforms
+* work on systems handling peaks of up to 2,000 requests per second
+* investigate memory leaks and optimise long-running background services
+* separate complex business processes into smaller and more maintainable services
+* improve reliability, observability, and performance of backend applications
 
 ## stack
 
-**primary:** php, yii2, laravel  
-**backend:** rest, sql, background jobs, integrations  
-**messaging:** kafka, rabbitmq  
-**data:** mysql, postgresql, clickhouse, redis  
-**additional:** go, grpc, microservices  
+**primary:** go
+**backend:** rest, grpc, microservices, concurrency
+**messaging:** kafka, rabbitmq
+**data:** postgresql, mysql, clickhouse, redis
 **infrastructure:** docker, linux
+**architecture:** event-driven systems, distributed services, background workers
 
 ## current focus
 
-building reliable php backends, improving performance, and gradually using go where a smaller or more isolated service makes sense.
+building reliable backend systems in go, improving performance, and developing a deeper understanding of concurrency, distributed systems, and system design.

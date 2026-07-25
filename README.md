@@ -1,8 +1,8 @@
 # artur piterov
 
-backend developer with 4+ years of commercial experience, currently focused on go.
+backend developer with 4 years of commercial experience, currently focused on go.
 
-i build backend services, integrations, background workers, and data-processing flows. most of my earlier production experience is with php, laravel, and yii2, while my current work and personal projects are increasingly centred around go.
+i built microservices, integrations, workers, etc. most of my earlier experience is with php, laravel, and yii2, while my current work and personal projects are increasingly centred around go.
 
 [telegram](https://t.me/piterovxyz) · [email](mailto:me@piterov.xyz)
 
@@ -23,5 +23,4 @@ i build backend services, integrations, background workers, and data-processing 
 * **backend:** rest, grpc, microservices
 * **messaging:** kafka, rabbitmq
 * **data:** postgresql, mysql, clickhouse, redis
-* **php:** laravel, yii2
 * **tools:** docker, linux, git

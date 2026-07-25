@@ -17,20 +17,6 @@ i build backend services, integrations, background workers, and data-processing 
 * work with integration traffic peaks of up to 2,000 requests per second
 * reduced memory usage in a background service from 2 gb to 10 mb
 
-## projects
-
-### [qrrot](https://github.com/piterovxyz/qrrot)
-
-local-first encrypted key-value database written in go.
-
-uses a binary file format, aes-256 encryption, grpc streaming, and an in-memory metadata index rebuilt from snapshots after restart.
-
-### [jumie](https://github.com/piterovxyz/jumie)
-
-local terminal assistant written in go.
-
-the cli communicates with a background daemon over a unix domain socket and uses a local ollama model to generate shell commands from natural-language requests.
-
 ## stack
 
 * **languages:** go, php

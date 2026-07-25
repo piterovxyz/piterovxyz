@@ -12,14 +12,11 @@ i built microservices, integrations, workers, etc. my current work and personal 
 * work with asynchronous flows using kafka and rabbitmq
 * build rest and grpc apis
 * work with postgresql, mysql, clickhouse, and redis
-* maintain production php services built with yii2 and laravel
 * investigate performance issues and memory leaks in long-running workers
-* work with integration traffic peaks of up to 2,000 requests per second
-* reduced memory usage in a background service from 2 gb to 10 mb
 
 ## stack
 
-* **languages:** go, php
+* **languages:** go
 * **backend:** rest, grpc, microservices
 * **messaging:** kafka, rabbitmq
 * **data:** postgresql, mysql, clickhouse, redis

@@ -1,5 +1,3 @@
-# artur piterov
-
 backend developer with 4 years of commercial experience, currently focused on go.
 
 i built microservices, integrations, workers, etc. most of my earlier experience is with php, laravel, and yii2, while my current work and personal projects are increasingly centred around go.
